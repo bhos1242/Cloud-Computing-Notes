@@ -1,0 +1,48 @@
+Mind Map for Cloud Computing:
+https://www.mindmeister.com/app/map/2876300125
+
+
+Overview
+
+Cloud Computing
+Definition: Renting computing resources over the internet.
+Benefits: Flexible, scalable, cost-effective.
+Layers of Cloud Computing
+
+Infrastructure as a Service (IaaS)
+Virtualized Hardware Resources
+Example: AWS EC2, Azure VMs
+Platform as a Service (PaaS)
+Application Development Platform
+Example: Google App Engine, Heroku
+Software as a Service (SaaS)
+Complete Applications over the Internet
+Example: Google Workspace, Microsoft 365
+Types of Cloud Deployment
+
+Public Cloud
+Owned and Operated by a Provider
+Shared Resources
+Example: AWS, Azure, GCP
+Private Cloud
+Dedicated to a Single Organization
+On-Premises or Hosted by Third-party
+Example: Private data centers
+Hybrid Cloud
+Combination of Public and Private Clouds
+Data and Applications Shared
+Example: AWS + Private Data Center
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Desired Features of a Cloud
+Flexibility
+Scalability
+Reliability
+Security
+Cost-Effectiveness
+Easy Management
+Accessibility
+Data Backup and Recovery
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
